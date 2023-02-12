@@ -1,0 +1,35 @@
+{
+"items": [
+  { "id": 1, "listId": 1, "title": "Washing pods", "quantity": 1, "price": 6990 },
+  { "id": 2, "listId": 1, "title": "Rice", "quantity": 1, "price": 999 },
+  { "id": 3, "listId": 2, "title": "Birthday Cake", "quantity": 1, "price": 1013 },
+  { "id": 4, "listId": 3, "title": "Surabi Kinca", "quantity": 1, "price": 2000 },
+  { "id": 5, "listId": 3, "title": "Surabi Polos", "quantity": 1, "price": 1500 },
+  { "id": 6, "listId": 3, "title": "Surabi Oncom", "quantity": 1, "price": 1900 },
+  { "id": 7, "listId": 4, "title": "Hakau", "quantity": 1, "price": 1013 },
+  { "id": 8, "listId": 4, "title": "Cordon Bleu Chicken", "quantity": 1, "price": 18000 },
+  { "id": 9, "listId": 4, "title": "Cordon Bleu Beef", "quantity": 1, "price": 19000 },
+  { "id": 10, "listId": 4, "title": "Chicken Katsu", "quantity": 1, "price": 14000 },
+  { "id": 11, "listId": 4, "title": "Beef Katsu", "quantity": 1, "price": 15000 },
+  { "id": 12, "listId": 4, "title": "Kwotie", "quantity": 1, "price": 4550 },
+  { "id": 13, "listId": 4, "title": "Ceker Ayam", "quantity": 1, "price": 11900 }
+],
+"lists" : [
+  { "id": 1, "title": "Daily groceries" },
+  { "id": 2, "title": "Birthday youngest child" },
+  { "id": 3, "title": "Surabi" },
+  { "id": 4, "title": "Dimsum" }
+],
+"posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+],
+"comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+],
+"profile": {
+    "name": "d.o.c.t"
+}
+}
