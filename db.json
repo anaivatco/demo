@@ -31,5 +31,828 @@
 ],
 "profile": {
     "name": "d.o.c.t"
+},
+"pertanyaan" : {
+  "items": [
+    {
+      "tags": [
+        "javascript",
+        "reactjs",
+        "api",
+        "graphql",
+        "antd"
+      ],
+      "owner": {
+        "account_id": 27745775,
+        "reputation": 1,
+        "user_id": 21181314,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a/AEdFTp4QSz4NGWcok-vNYmpSbQcFPs9N2BxD4sM0mWZ-=k-s256",
+        "display_name": "Varun Akash",
+        "link": "https://stackoverflow.com/users/21181314/varun-akash"
+      },
+      "is_answered": false,
+      "view_count": 5,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1675956870,
+      "creation_date": 1675956870,
+      "question_id": 75400889,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/75400889/antd-card-loading-is-not-working-properly",
+      "title": "Antd card loading is not working properly"
+    },
+    {
+      "tags": [
+        "javascript",
+        "reactjs"
+      ],
+      "owner": {
+        "account_id": 27230228,
+        "reputation": 95,
+        "user_id": 20758068,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a/AEdFTp6HrXSb5aOBLreXJtcW230FyQcSZ563zSq2tsIO=k-s256",
+        "display_name": "Roman",
+        "link": "https://stackoverflow.com/users/20758068/roman"
+      },
+      "is_answered": false,
+      "view_count": 31,
+      "answer_count": 2,
+      "score": 0,
+      "last_activity_date": 1675956782,
+      "creation_date": 1675954889,
+      "last_edit_date": 1675956158,
+      "question_id": 75400469,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/75400469/how-to-add-a-second-onclick-listener-without-removing-the-first-one-react",
+      "title": "how to add a second onClick listener without removing the first one? React"
+    },
+    {
+      "tags": [
+        "reactjs",
+        "chart.js",
+        "react-chartjs-2"
+      ],
+      "owner": {
+        "account_id": 13060641,
+        "reputation": 55,
+        "user_id": 9437952,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/890e49f8c008ae75b771b19dcd1d404b?s=256&d=identicon&r=PG&f=1",
+        "display_name": "Albert Berty",
+        "link": "https://stackoverflow.com/users/9437952/albert-berty"
+      },
+      "is_answered": false,
+      "view_count": 49,
+      "answer_count": 3,
+      "score": 0,
+      "last_activity_date": 1675956751,
+      "creation_date": 1673693337,
+      "question_id": 75117357,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/75117357/react-chartjs-2-cannot-read-properties-of-undefined-reading-register",
+      "title": "React-chartjs-2: Cannot read properties of undefined (reading &#39;register&#39;)"
+    },
+    {
+      "tags": [
+        "reactjs"
+      ],
+      "owner": {
+        "account_id": 25709712,
+        "reputation": 1,
+        "user_id": 19468466,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a-/AOh14Gibms4ullfRf2ros4Fu50zIhSGcpQQGD7h5YL1pdQ=k-s256",
+        "display_name": "srmback",
+        "link": "https://stackoverflow.com/users/19468466/srmback"
+      },
+      "is_answered": false,
+      "view_count": 16,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1675956717,
+      "creation_date": 1675955337,
+      "question_id": 75400562,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/75400562/handlesubmit-to-call-another-function-with-event-parameter",
+      "title": "handleSubmit to call another function with event parameter"
+    },
+    {
+      "tags": [
+        "javascript",
+        "reactjs",
+        "react-hooks",
+        "styled-components"
+      ],
+      "owner": {
+        "account_id": 2584984,
+        "reputation": 491,
+        "user_id": 3123837,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/fae80098b33a7e3ddb3b064000f0658d?s=256&d=identicon&r=PG",
+        "display_name": "AvidDabbler",
+        "link": "https://stackoverflow.com/users/3123837/aviddabbler"
+      },
+      "is_answered": true,
+      "view_count": 4310,
+      "answer_count": 3,
+      "score": 5,
+      "last_activity_date": 1675956714,
+      "creation_date": 1580964180,
+      "last_edit_date": 1580976737,
+      "question_id": 60087860,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/60087860/issue-with-styled-component-error-invalid-hook-call",
+      "title": "Issue with &#39;styled-component&#39;: Error: Invalid hook call"
+    },
+    {
+      "tags": [
+        "reactjs",
+        "next.js",
+        "jsx",
+        "nextjs13"
+      ],
+      "owner": {
+        "account_id": 11032220,
+        "reputation": 21,
+        "user_id": 8103288,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/0297c1994edb001b77d58b46516ef209?s=256&d=identicon&r=PG&f=1",
+        "display_name": "louis delbosc",
+        "link": "https://stackoverflow.com/users/8103288/louis-delbosc"
+      },
+      "is_answered": false,
+      "view_count": 23,
+      "answer_count": 1,
+      "score": 2,
+      "last_activity_date": 1675956693,
+      "creation_date": 1675941355,
+      "last_edit_date": 1675956693,
+      "question_id": 75397816,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/75397816/how-to-render-react-template-in-string-as-dom-using-nextjs",
+      "title": "How to render React template in string as DOM using NextJS?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "reactjs",
+        "playwright"
+      ],
+      "owner": {
+        "account_id": 4204115,
+        "reputation": 615,
+        "user_id": 3443505,
+        "user_type": "registered",
+        "accept_rate": 91,
+        "profile_image": "https://i.stack.imgur.com/fSpSD.png?s=256&g=1",
+        "display_name": "Animus",
+        "link": "https://stackoverflow.com/users/3443505/animus"
+      },
+      "is_answered": true,
+      "view_count": 27,
+      "answer_count": 1,
+      "score": 1,
+      "last_activity_date": 1675956567,
+      "creation_date": 1675884724,
+      "last_edit_date": 1675956567,
+      "question_id": 75390854,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/75390854/how-to-get-classlist-on-a-selector-in-playwright",
+      "title": "How to get classList on a selector in playwright?"
+    },
+    {
+      "tags": [
+        "reactjs",
+        "ecmascript-6",
+        "babeljs",
+        "styled-jsx"
+      ],
+      "owner": {
+        "account_id": 14532020,
+        "reputation": 111,
+        "user_id": 10496621,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/0eac5a9c6c8f65a339fc441b72bcc1c5?s=256&d=identicon&r=PG&f=1",
+        "display_name": "Eric Poretsky",
+        "link": "https://stackoverflow.com/users/10496621/eric-poretsky"
+      },
+      "is_answered": true,
+      "view_count": 7908,
+      "answer_count": 6,
+      "score": 11,
+      "last_activity_date": 1675956567,
+      "creation_date": 1564435088,
+      "last_edit_date": 1627896795,
+      "question_id": 57261540,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/57261540/warning-received-true-for-a-non-boolean-attribute-jsx-zeit-styled-jsx",
+      "title": "Warning: Received `true` for a non-boolean attribute `jsx`. Zeit Styled Jsx"
+    },
+    {
+      "tags": [
+        "javascript",
+        "reactjs",
+        "react-router",
+        "react-router-dom"
+      ],
+      "owner": {
+        "account_id": 18235483,
+        "reputation": 11,
+        "user_id": 13273596,
+        "user_type": "registered",
+        "profile_image": "https://i.stack.imgur.com/iZfP4.png?s=256&g=1",
+        "display_name": "Gorostiaga",
+        "link": "https://stackoverflow.com/users/13273596/gorostiaga"
+      },
+      "is_answered": false,
+      "view_count": 8,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1675956476,
+      "creation_date": 1675956476,
+      "question_id": 75400793,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/75400793/is-it-possible-to-call-to-apis-inside-a-react-router-loader-function",
+      "title": "Is it possible to call to APIs inside a react-router loader function"
+    },
+    {
+      "tags": [
+        "javascript",
+        "reactjs"
+      ],
+      "owner": {
+        "account_id": 24216146,
+        "reputation": 11,
+        "user_id": 18172002,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/cbb273516e76b7be50f662911253141b?s=256&d=identicon&r=PG",
+        "display_name": "iskra",
+        "link": "https://stackoverflow.com/users/18172002/iskra"
+      },
+      "is_answered": false,
+      "view_count": 61,
+      "answer_count": 1,
+      "score": 1,
+      "last_activity_date": 1675956471,
+      "creation_date": 1673183666,
+      "last_edit_date": 1673185149,
+      "question_id": 75048041,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/75048041/invalid-hook-call-when-using-styled-components-in-react",
+      "title": "Invalid Hook Call when using styled-components in React"
+    },
+    {
+      "tags": [
+        "reactjs",
+        "localization",
+        "libraries",
+        "navigator"
+      ],
+      "owner": {
+        "account_id": 13829712,
+        "reputation": 15,
+        "user_id": 9982965,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/-rKyzoqmWhnk/AAAAAAAAAAI/AAAAAAAAA5g/KKRvN0OihJg/photo.jpg?sz=256",
+        "display_name": "Cesar Ochoa",
+        "link": "https://stackoverflow.com/users/9982965/cesar-ochoa"
+      },
+      "is_answered": false,
+      "view_count": 4,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1675957036,
+      "creation_date": 1675956435,
+      "last_edit_date": 1675957036,
+      "question_id": 75400786,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/75400786/react-library-for-physical-address-localization",
+      "title": "React library for physical address localization"
+    },
+    {
+      "tags": [
+        "reactjs",
+        "react-hook-form"
+      ],
+      "owner": {
+        "account_id": 27728030,
+        "reputation": 1,
+        "user_id": 21167150,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/83aadc584997438babc2791435b68b95?s=256&d=identicon&r=PG",
+        "display_name": "Ricardo Hernandez",
+        "link": "https://stackoverflow.com/users/21167150/ricardo-hernandez"
+      },
+      "is_answered": false,
+      "view_count": 33,
+      "answer_count": 2,
+      "score": 0,
+      "last_activity_date": 1675956358,
+      "creation_date": 1675792579,
+      "question_id": 75377220,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/75377220/is-there-a-way-to-avoid-submission-with-the-same-form-values-using-react-hook-fo",
+      "title": "Is there a way to avoid submission with the same form values using react-hook-form, even though isDirty =true?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "reactjs",
+        "typescript",
+        "graphql",
+        "gatsby"
+      ],
+      "owner": {
+        "account_id": 27745545,
+        "reputation": 1,
+        "user_id": 21181123,
+        "user_type": "registered",
+        "profile_image": "https://i.stack.imgur.com/fyfyP.jpg?s=256&g=1",
+        "display_name": "Eevee Zayas-Gar&#237;n",
+        "link": "https://stackoverflow.com/users/21181123/eevee-zayas-gar%c3%adn"
+      },
+      "is_answered": false,
+      "view_count": 4,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1675956291,
+      "creation_date": 1675956291,
+      "question_id": 75400754,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/75400754/graphql-query-error-with-sitemetadata-using-gatsby",
+      "title": "GraphQL query error with siteMetadata using Gatsby"
+    },
+    {
+      "tags": [
+        "reactjs",
+        "arrays",
+        "react-hooks",
+        "state"
+      ],
+      "owner": {
+        "account_id": 27308987,
+        "reputation": 1,
+        "user_id": 20824473,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a/AEdFTp5pcNnWQthsfxaHr3w94F8zyZw2YV_ZutvuOd_caA=k-s256",
+        "display_name": "Brandon Kesner",
+        "link": "https://stackoverflow.com/users/20824473/brandon-kesner"
+      },
+      "is_answered": false,
+      "view_count": 14,
+      "answer_count": 0,
+      "score": -1,
+      "last_activity_date": 1675956217,
+      "creation_date": 1675953230,
+      "last_edit_date": 1675956217,
+      "question_id": 75400117,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/75400117/image-mapper-not-scaling-correctly-when-routing-app-react",
+      "title": "Image mapper not scaling correctly when routing app React"
+    },
+    {
+      "tags": [
+        "reactjs",
+        "npm-install",
+        "react-18"
+      ],
+      "owner": {
+        "account_id": 22364373,
+        "reputation": 11,
+        "user_id": 16580425,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a-/AOh14GjA_p-BDyvgcHwYeZpS_wAE6OerBfDKRl6a35y8XQ=k-s256",
+        "display_name": "Mahmod Amasha",
+        "link": "https://stackoverflow.com/users/16580425/mahmod-amasha"
+      },
+      "is_answered": false,
+      "view_count": 6,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1675956192,
+      "creation_date": 1675956192,
+      "question_id": 75400735,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/75400735/cannot-install-react-paypal-button-with-react-18",
+      "title": "Cannot install react-paypal-button with react 18"
+    },
+    {
+      "tags": [
+        "reactjs",
+        "frontend"
+      ],
+      "owner": {
+        "account_id": 27574164,
+        "reputation": 1,
+        "user_id": 21044737,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a/AEdFTp7_tWYLOYVkYDWjqMYArKGMM24DPmB6le4WCONurg=k-s256",
+        "display_name": "S A",
+        "link": "https://stackoverflow.com/users/21044737/s-a"
+      },
+      "is_answered": false,
+      "view_count": 17,
+      "answer_count": 1,
+      "score": -2,
+      "last_activity_date": 1675956069,
+      "creation_date": 1675952659,
+      "question_id": 75400007,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/75400007/how-to-perform-authorization-based-on-user-roles-in-react-frontend",
+      "title": "How to perform authorization based on User roles in React Frontend"
+    },
+    {
+      "tags": [
+        "javascript",
+        "reactjs",
+        "typescript",
+        "forms",
+        "validation"
+      ],
+      "owner": {
+        "account_id": 27721279,
+        "reputation": 1,
+        "user_id": 21161744,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a/AEdFTp68Jrxi0tGRg9SV4iLk3kbM81gYzAxno8PmCW2QkA=k-s256",
+        "display_name": "Melvin",
+        "link": "https://stackoverflow.com/users/21161744/melvin"
+      },
+      "is_answered": false,
+      "view_count": 9,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1675956020,
+      "creation_date": 1675956020,
+      "question_id": 75400701,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/75400701/how-to-avoid-duplicate-data-overwrite-show-already-exist-data-in-next-js-b",
+      "title": "How to avoid duplicate data || overwrite || show already exist data in Next js by sanity backend"
+    },
+    {
+      "tags": [
+        "android",
+        "reactjs",
+        "react-native"
+      ],
+      "owner": {
+        "account_id": 15025230,
+        "reputation": 1278,
+        "user_id": 10845300,
+        "user_type": "registered",
+        "profile_image": "https://graph.facebook.com/100001504283964/picture?type=large",
+        "display_name": "Aniruddh Thakor",
+        "link": "https://stackoverflow.com/users/10845300/aniruddh-thakor"
+      },
+      "is_answered": true,
+      "view_count": 53510,
+      "accepted_answer_id": 56319844,
+      "answer_count": 22,
+      "score": 29,
+      "last_activity_date": 1675955709,
+      "creation_date": 1548752543,
+      "question_id": 54417232,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/54417232/react-native-google-signin-gives-developer-error",
+      "title": "React-native google signin gives Developer Error"
+    },
+    {
+      "tags": [
+        "reactjs",
+        "sails.js",
+        "minify",
+        "terser"
+      ],
+      "owner": {
+        "account_id": 2296141,
+        "reputation": 11,
+        "user_id": 2017534,
+        "user_type": "registered",
+        "profile_image": "https://i.stack.imgur.com/fgjp8.jpg?s=256&g=1",
+        "display_name": "Alex",
+        "link": "https://stackoverflow.com/users/2017534/alex"
+      },
+      "is_answered": false,
+      "view_count": 86,
+      "answer_count": 1,
+      "score": 1,
+      "last_activity_date": 1675955588,
+      "creation_date": 1662268664,
+      "question_id": 73596941,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/73596941/grunt-terser-failing-to-minify-react-jsx-code-on-sails",
+      "title": "Grunt-terser failing to minify React JSX code on Sails"
+    },
+    {
+      "tags": [
+        "javascript",
+        "reactjs",
+        "react-native",
+        "react-hooks",
+        "frontend"
+      ],
+      "owner": {
+        "account_id": 20409616,
+        "reputation": 47,
+        "user_id": 14973351,
+        "user_type": "registered",
+        "profile_image": "https://i.stack.imgur.com/4Rj49.jpg?s=256&g=1",
+        "display_name": "Rabten",
+        "link": "https://stackoverflow.com/users/14973351/rabten"
+      },
+      "is_answered": true,
+      "view_count": 113,
+      "accepted_answer_id": 71907413,
+      "answer_count": 2,
+      "score": 2,
+      "last_activity_date": 1675955559,
+      "creation_date": 1650221743,
+      "last_edit_date": 1650222480,
+      "question_id": 71904638,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/71904638/how-can-i-use-the-latest-react-version-react18",
+      "title": "How can I use the latest react version (react18)?"
+    },
+    {
+      "tags": [
+        "json",
+        "node.js",
+        "reactjs"
+      ],
+      "owner": {
+        "account_id": 13263083,
+        "reputation": 488,
+        "user_id": 9576946,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/b4e349be6d3be0ff2e58d4debfca031c?s=256&d=identicon&r=PG&f=1",
+        "display_name": "kadddeee",
+        "link": "https://stackoverflow.com/users/9576946/kadddeee"
+      },
+      "is_answered": true,
+      "view_count": 917,
+      "accepted_answer_id": 52299232,
+      "answer_count": 3,
+      "score": 0,
+      "last_activity_date": 1675955432,
+      "creation_date": 1536694302,
+      "question_id": 52283017,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/52283017/json-data-only-loads-correct-once-you-refresh-the-page",
+      "title": "Json data only loads correct once you refresh the page?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "node.js",
+        "reactjs",
+        "authentication",
+        "next.js"
+      ],
+      "owner": {
+        "account_id": 6097613,
+        "reputation": 11618,
+        "user_id": 9640177,
+        "user_type": "registered",
+        "profile_image": "https://lh5.googleusercontent.com/-D3AjGIzpG94/AAAAAAAAAAI/AAAAAAAACUg/_qbInmacaV0/photo.jpg?sz=256",
+        "display_name": "Mayank Kumar Chaudhari",
+        "link": "https://stackoverflow.com/users/9640177/mayank-kumar-chaudhari"
+      },
+      "is_answered": true,
+      "view_count": 144,
+      "accepted_answer_id": 75320314,
+      "answer_count": 1,
+      "score": 3,
+      "last_activity_date": 1675955325,
+      "creation_date": 1609862297,
+      "last_edit_date": 1675955325,
+      "question_id": 65582278,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/65582278/how-to-put-static-files-such-as-videos-behind-auth-in-next-js-webapp",
+      "title": "How to put static files such as videos behind auth in next.js webapp?"
+    },
+    {
+      "tags": [
+        "reactjs",
+        "swiper.js"
+      ],
+      "owner": {
+        "account_id": 18843998,
+        "reputation": 461,
+        "user_id": 13744773,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/5319c15a1db785407709029b6188c528?s=256&d=identicon&r=PG",
+        "display_name": "Arik Chakma",
+        "link": "https://stackoverflow.com/users/13744773/arik-chakma"
+      },
+      "is_answered": true,
+      "view_count": 43249,
+      "answer_count": 14,
+      "score": 36,
+      "last_activity_date": 1675955279,
+      "creation_date": 1631771509,
+      "question_id": 69202975,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/69202975/module-not-found-cant-resolve-swiper-react",
+      "title": "Module not found: Can&#39;t resolve &#39;swiper/react&#39;"
+    },
+    {
+      "tags": [
+        "javascript",
+        "node.js",
+        "reactjs",
+        "express",
+        "mern"
+      ],
+      "owner": {
+        "account_id": 19218594,
+        "reputation": 77,
+        "user_id": 14042888,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/0700630a14ebec56c858c824d54f590f?s=256&d=identicon&r=PG&f=1",
+        "display_name": "Bs Joy",
+        "link": "https://stackoverflow.com/users/14042888/bs-joy"
+      },
+      "is_answered": false,
+      "view_count": 6,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1675955141,
+      "creation_date": 1675955141,
+      "question_id": 75400515,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/75400515/bsontypeerror-argument-passed-in-must-be-a-string-of-12-bytes-or-a-string-of-24",
+      "title": "BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer"
+    },
+    {
+      "tags": [
+        "reactjs",
+        "typescript",
+        "react-router"
+      ],
+      "owner": {
+        "account_id": 25661285,
+        "reputation": 41,
+        "user_id": 19426995,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/fa34d4c4474d0c75713af2bc94b0a569?s=256&d=identicon&r=PG",
+        "display_name": "DroFront",
+        "link": "https://stackoverflow.com/users/19426995/drofront"
+      },
+      "is_answered": false,
+      "view_count": 4,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1675955108,
+      "creation_date": 1675955108,
+      "question_id": 75400510,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/75400510/custom-prompt-in-react-router-v6-4-2",
+      "title": "custom prompt in react-router v6.4.2"
+    },
+    {
+      "tags": [
+        "reactjs",
+        "cookies",
+        "next.js",
+        "keycloak",
+        "url-parameters"
+      ],
+      "owner": {
+        "account_id": 4940229,
+        "reputation": 1051,
+        "user_id": 3977145,
+        "user_type": "registered",
+        "accept_rate": 73,
+        "profile_image": "https://graph.facebook.com/506166398/picture?type=large",
+        "display_name": "codigomonstruo",
+        "link": "https://stackoverflow.com/users/3977145/codigomonstruo"
+      },
+      "is_answered": false,
+      "view_count": 895,
+      "answer_count": 1,
+      "score": 2,
+      "last_activity_date": 1675955084,
+      "creation_date": 1645474840,
+      "last_edit_date": 1645475954,
+      "question_id": 71212557,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/71212557/infinite-loop-issue-with-nextjs-react-keycloak-ssr-and-url-params",
+      "title": "Infinite loop issue with NextJS, @react-keycloak/ssr&#39;, and url params?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "reactjs",
+        "visual-studio-code",
+        "eslint"
+      ],
+      "owner": {
+        "account_id": 1993292,
+        "reputation": 2697,
+        "user_id": 1786805,
+        "user_type": "registered",
+        "accept_rate": 38,
+        "profile_image": "https://i.stack.imgur.com/HC0xE.png?s=256&g=1",
+        "display_name": "Eric",
+        "link": "https://stackoverflow.com/users/1786805/eric"
+      },
+      "is_answered": false,
+      "view_count": 27,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1675954926,
+      "creation_date": 1675941669,
+      "last_edit_date": 1675954926,
+      "question_id": 75397871,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/75397871/eslint-works-in-one-vscode-project-but-not-another",
+      "title": "ESLint works in one VSCode project but not another"
+    },
+    {
+      "tags": [
+        "javascript",
+        "reactjs",
+        "chakra-ui"
+      ],
+      "owner": {
+        "account_id": 14566777,
+        "reputation": 1263,
+        "user_id": 10521235,
+        "user_type": "registered",
+        "profile_image": "https://i.stack.imgur.com/LTzh0.jpg?s=256&g=1",
+        "display_name": "Jevon Cochran",
+        "link": "https://stackoverflow.com/users/10521235/jevon-cochran"
+      },
+      "is_answered": false,
+      "view_count": 6,
+      "answer_count": 0,
+      "score": -1,
+      "last_activity_date": 1675954924,
+      "creation_date": 1675954924,
+      "question_id": 75400475,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/75400475/prevent-chakra-ui-slide-transition-from-locking-up-ui",
+      "title": "Prevent Chakra UI Slide transition from locking up UI"
+    },
+    {
+      "tags": [
+        "reactjs",
+        "next.js",
+        "radio-button"
+      ],
+      "owner": {
+        "account_id": 269573,
+        "reputation": 947,
+        "user_id": 558981,
+        "user_type": "registered",
+        "accept_rate": 60,
+        "profile_image": "https://i.stack.imgur.com/19R1o.jpg?s=256&g=1",
+        "display_name": "chaoskreator",
+        "link": "https://stackoverflow.com/users/558981/chaoskreator"
+      },
+      "is_answered": false,
+      "view_count": 6,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1675954906,
+      "creation_date": 1675954906,
+      "question_id": 75400472,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/75400472/react-radio-buttons-and-state-not-performing-as-expected",
+      "title": "react radio buttons and state not performing as expected"
+    },
+    {
+      "tags": [
+        "javascript",
+        "node.js",
+        "reactjs",
+        "next.js"
+      ],
+      "owner": {
+        "account_id": 22703867,
+        "reputation": 5,
+        "user_id": 19605625,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/2f051eb67710774592adf4b26097f787?s=256&d=identicon&r=PG",
+        "display_name": "Dev.moiz",
+        "link": "https://stackoverflow.com/users/19605625/dev-moiz"
+      },
+      "is_answered": false,
+      "view_count": 5,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1675954906,
+      "creation_date": 1675954906,
+      "question_id": 75400471,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/75400471/unable-to-update-image-base64-in-next-js",
+      "title": "unable to update Image (base64) in next js"
+    }
+  ],
+  "has_more": true,
+  "quota_max": 10000,
+  "quota_remaining": 9662
 }
 }
