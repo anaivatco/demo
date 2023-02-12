@@ -32,8 +32,7 @@
 "profile": {
     "name": "d.o.c.t"
 },
-"pertanyaan" : {
-  "items": [
+"pertanyaan" : [
     {
       "tags": [
         "javascript",
@@ -850,9 +849,5 @@
       "link": "https://stackoverflow.com/questions/75400471/unable-to-update-image-base64-in-next-js",
       "title": "unable to update Image (base64) in next js"
     }
-  ],
-  "has_more": true,
-  "quota_max": 10000,
-  "quota_remaining": 9662
-}
+  ]
 }
